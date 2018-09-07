@@ -32,7 +32,7 @@ Touchpad | ELAN Touchpad
 
 - [alexandred](https://github.com/alexandred) and [hieplpvip](https://github.com/hieplpvip) Updated [VoodooI2C](https://github.com/alexandred/VoodooI2C) for maintenance
 
-- [daliansky] (https://github.com/daliansky) for [README Template] (https://github.com/daliansky/XiaoMi-Pro/blob/master/README.md)
+- [daliansky](https://github.com/daliansky) for [README Template](https://github.com/daliansky/XiaoMi-Pro/blob/master/README.md)
 
 ## Installation
 
